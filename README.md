@@ -5,7 +5,7 @@
 - 📫 How to reach me
     - Mail: GodwinJS@outlook.com
     - LinkedIn: https://www.linkedin.com/in/itsgoddy/
-    - Twitter: htpps://twitter.com/GoddyGCFR
+    - Twitter: https://twitter.com/GoddyGCFR
 
 <!---
 GoddyGCFR/GoddyGCFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
